@@ -16,7 +16,6 @@ Toast传送count值，见项目Toast_activity，关键代码如下：
 
 项目截图、视频命名为homework
 
-./homework.png
 
 1. 复制并改名lab3的Hello Toast
 
