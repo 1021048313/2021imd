@@ -100,8 +100,8 @@ app:srcCompat="@drawable/ic_shopping_cart"
    最后通过intent发送
 
    ```java
-  orderlist=orderlist.substring(0,orderlist.length()-1);
-  intent.putExtra("orderlist",orderlist);
+   orderlist=orderlist.substring(0,orderlist.length()-1);
+   intent.putExtra("orderlist",orderlist);
    startActivity(intent);
    ```
 
