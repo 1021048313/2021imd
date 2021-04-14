@@ -101,7 +101,7 @@ app:srcCompat="@drawable/ic_shopping_cart"
 
    ```java
   orderlist=orderlist.substring(0,orderlist.length()-1);
-   intent.putExtra("orderlist",orderlist);
+  intent.putExtra("orderlist",orderlist);
    startActivity(intent);
    ```
 
