@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialNumber</string>
+    <string name="phone_label_text">Phone</string>
+    <string name="enter_phone_hint">enter number</string>
+</resources>
