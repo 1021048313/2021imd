@@ -26,6 +26,12 @@ https://developer.android.com/codelabs/
 
 [lab8:卡片操作、共享图像](./lab8)
 
+[lab9:连接网页、后台运行](./lab9)
+
+[lab10:通知](./lab10)
+
+
+
 
 
 
